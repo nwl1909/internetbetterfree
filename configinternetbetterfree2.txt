@@ -2,7 +2,6 @@
 # profile-update-interval: 5
 # Date/Time: 2026-03-26 / 13:56 (Moscow)
 # Количество: 150
-# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://753017a3-c43f-4529-a5f4-1162929a66a4@176.122.25.50:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=st.vk.com&pbk=zwxb4S-XaRk54UpQmRoeA9VzK97kKLPaMEPVeQwG5zs&sid=b8ec7ac5&spx=%2F#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://6f623839-1e6f-36ea-aa5b-5a8d9aa16fcd@185.232.170.44:47004?security=reality&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=qq&pbk=J5-ZvlY9EUESyDK6jv2gRkPLKw-HULy8bJU58o_Blmw&sid=1fbcfafa80e45b24#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5B%2ACIDR%5D
